@@ -1,6 +1,6 @@
 # Bonjour ! My name Sabrina 🧝🏽‍♀️
 
-I'm bilingual full-stack developer with extensive international experiences, I am driven by a strong desire to enhance user experiences and am always eager to tackle new challenges in technology. 
+I'm bilingual full-stack developer with extensive international experiences, I am driven by a strong desire to enhance user experiences and am always eager to tackle new challenges in technology.
 
 ## 🌍 About Me
 Having lived and thrived in diverse environments across Mali, Senegal, Côte d’Ivoire, South Africa, the U.S., and Guinea, I bring a unique, global perspective to technology and product development.
@@ -18,6 +18,8 @@ Currently, I volunteer in leading the Gyn&Co platform redesign, focusing on impr
 ## 🔨 Work in Progress
 - Gyn&co Platform | Symfony/Next.js/SCSS
 - My portfolio | Next.js/TypeScript/TailwindCSS
+
+> [**📘 Today I Learned (TIL)**](https://github.com/sludovicdelys/TIL): As a curious developer, I maintain a humble diary where I document all new technologies and related topics I explore daily.
 
 ## 📚 Public Projects
 
