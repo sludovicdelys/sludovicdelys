@@ -1,16 +1,13 @@
 # Bonjour ! My name Sabrina 🧝🏽‍♀️
 
-As a bilingual 🇬🇧/🇺🇸 full-stack developer with extensive international experiences, I am driven by a strong desire to enhance user experiences and am always eager to tackle new challenges in technology. 
-
-I'm actively seeking a **work-study** contract that will allow me to further develop my skills in **Java and Angular**, as I continue to grow in my ability to balance technical challenges with impactful user-centric design.
+I'm bilingual full-stack developer with extensive international experiences, I am driven by a strong desire to enhance user experiences and am always eager to tackle new challenges in technology. 
 
 ## 🌍 About Me
+Having lived and thrived in diverse environments across Mali, Senegal, Côte d’Ivoire, South Africa, the U.S., and Guinea, I bring a unique, global perspective to technology and product development.
 
-Born from a global upbringing across Mali, Senegal, Côte d’Ivoire, South Africa, the U.S., and Guinea, my international perspective fuels my work in tech, bringing diverse insights into user-centric product development. 
+I hold a licence as a **Concepteur Développeur d'Application** from O'clock and have professionnal experience as a **front-end developer** at **[Elao](https://www.elao.com/)**. 
 
-I hold a licence as a **Concepteur Développeur d'Application** from O'clock, labeled Grande École du Numérique. 
-
-My professional journey includes significant experience as a **front-end developer** at **[Elao](https://www.elao.com/)**, where I honed my technical skills and contributed to various projects.
+Currently, I volunteer in leading the Gyn&Co platform redesign, focusing on improving user interaction and accessibility. 
 
 ## 🧰 Technologies and Environments
 
@@ -35,17 +32,10 @@ My professional journey includes significant experience as a **front-end develop
 
 ## ✨ Professional Aspirations
 
-- I aim to enrich my skills in project management and design, considering both technical challenges and their impact on users.
-- I'm geographically flexible and open to international opportunities, ready to bring my adaptability and detail-oriented skills to a forward-thinking team.
+I'm eager to join a dynamic team to refine my technical skills through practical application. Open to opportunities across France and internationally.
 
 ## 📫 How to Reach Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sabrinaludovicdelys/) or follow my updates right here on GitHub. I'm available for opportunities across France and internationally, ready to contribute to your team's success with my unique blend of technical skills and international insights.
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/sabrinaludovicdelys/). I'm ready to bring my skills and global insights to your team.
 
-Thank you for visiting my profile. Let’s explore how we can collaborate on impactful technology solutions together!
-
-
-
-
-
-
+Thank you for visiting my profile. Let's create impactful solutions together!
