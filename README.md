@@ -16,13 +16,14 @@ Currently, I volunteer in leading the Gyn&Co platform redesign, focusing on impr
 - **Experiences with**: Next.js, TypeScript, Laravel, PostgreSQL, Agile Methods, Heroku, CI/CD, Docker
 
 ## 🔨 Work in Progress
-- Gyn&co Platform | Symfony/Next.js/SCSS
+- Go The Distance | Symfony/Next.js/TypeScript/TailwindCSS | Technical test
 - My portfolio | Next.js/TypeScript/TailwindCSS
+- Gyn&co Platform | Symfony/Next.js/SCSS
 
 > 🌱 [**Today I Learned (TIL)**](https://github.com/sludovicdelys/TIL): As a curious developer, I maintain a humble diary where I document all new technologies and related topics I explore daily.
 
 ## 📚 Public Projects
-
+- [**Go The Distance**](https://github.com/sludovicdelys/go_the_distance): Developed a simple project to log and organise your running sessions, **in the context of a technical test**. 
 - [**Gyn&Co Platform Redesign - Memoir**](https://github.com/sludovicdelys/gyn-co-memoir): Contributed to the architectural redesign and implementation of a multi-step form to enhance user interaction and accessibility.
 - [**O-films**](https://github.com/sludovicdelys/o-films): Developed a simple platform to add and list all your favorite movies and series with authentication.
 - [**Personal Fullstack Project**](https://github.com/sludovicdelys/theafricanbard.com): Developed a responsive blog with user authentication for article management, encompassing both front-end and back-end development.
