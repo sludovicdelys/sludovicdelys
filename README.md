@@ -28,7 +28,7 @@ Currently, I volunteer in leading the Gyn&Co platform redesign, focusing on impr
 - [**Personal Fullstack Project**](https://github.com/sludovicdelys/theafricanbard.com): Developed a responsive blog with user authentication for article management, encompassing both front-end and back-end development.
 
 ## 🚀 Deployed Projects
-- [**TaskJam - To:Do List**](https://github.com/sludovicdelys/taskjam) | React.js/TypeScript/Github Pages 🐙
+- [**TaskJam - To:Do List**](https://sludovicdelys.github.io/taskjam/) | React.js/TypeScript/Github Pages 🐙
 - [**Sabrina Seeks Stories - Portfolio**](https://my-portfolio-omega-mauve.vercel.app/) | Next.js/TypeScript/TailwindCSS/Vercel △
 - [**Gyn&Co Platform Redesign - Memoir**](https://gyn-co-memoir.gitlab.io/gyn-co-memoir/) | Docusaurus/Gitlab Pages 🦊
 - [**Tic-Tac-Toe**](https://sludovicdelys.github.io/tic-tac-toe/) React.js/Github Pages 🐙
