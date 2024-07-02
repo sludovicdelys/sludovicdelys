@@ -22,6 +22,7 @@ Currently, I volunteer in leading the Gyn&Co platform redesign, focusing on impr
 > 🌱 [**Today I Learned (TIL)**](https://github.com/sludovicdelys/TIL): As a curious developer, I maintain a humble diary where I document all new technologies and related topics I explore daily.
 
 ## 📚 Public Projects
+- [**ESG Dashboard**](https://github.com/sludovicdelys/case_studies): Created a dashboard to visualize ESG criteria with React, TypeScript and TailwindCSS.
 - [**Go The Distance**](https://github.com/sludovicdelys/go_the_distance): Developed a simple project to log and organise your running sessions, **in the context of a technical test**. 
 - [**Gyn&Co Platform Redesign - Memoir**](https://github.com/sludovicdelys/gyn-co-memoir): Contributed to the architectural redesign and implementation of a multi-step form to enhance user interaction and accessibility.
 - [**O-films**](https://github.com/sludovicdelys/o-films): Developed a simple platform to add and list all your favorite movies and series with authentication.
