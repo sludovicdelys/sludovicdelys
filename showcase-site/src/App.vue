@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import Portfolio from '@/views/Portfolio.vue'
+import Portfolio from './views/Portfolio.vue'
 
 export default {
   name: 'App',
@@ -16,5 +16,5 @@ export default {
 </script>
 
 <style lang="scss">
-@import '@/styles/main.scss';
+@import './styles/main.scss';
 </style>

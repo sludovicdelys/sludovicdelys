@@ -43,7 +43,7 @@
       transition: background-color 0.3s ease;
   
       &:hover {
-        background-color: darken(var(--secondary-color), 10%);
+        background-color: var(--secondary-color);
         text-decoration: none;
       }
     }
