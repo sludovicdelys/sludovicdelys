@@ -1,0 +1,73 @@
+:root {
+  --primary-color: #333;
+  --secondary-color: #0066cc;
+  --background-color: #f4f4f4;
+  --text-color: #333;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: var(--text-color);
+  background-color: var(--background-color);
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+h1, h2 {
+  color: var(--primary-color);
+}
+
+a {
+  color: var(--secondary-color);
+  text-decoration: none;
+  
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+ul {
+  padding-left: 1.5rem;
+}
+
+// Utility classes
+.visually-hidden {
+  position: absolute !important;
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+  clip: rect(1px 1px 1px 1px);
+  clip: rect(1px, 1px, 1px, 1px);
+  white-space: nowrap;
+}
+
+// Media query for dark mode
+@media (prefers-color-scheme: dark) {
+  :root {
+    --primary-color: #f4f4f4;
+    --secondary-color: #66b3ff;
+    --background-color: #333;
+    --text-color: #f4f4f4;
+  }
+}
+
+// Print styles
+@media print {
+  body {
+    font-size: 12pt;
+    color: #000;
+    background-color: #fff;
+  }
+  
+  a {
+    color: #000;
+    text-decoration: underline;
+  }
+}
