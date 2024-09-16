@@ -8,7 +8,7 @@
   
 <script>
   export default {
-    name: 'Contact',
+    name: 'AppContact',
     props: {
       contactInfo: {
         type: String,
